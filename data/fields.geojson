@@ -1,0 +1,3415 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "FLD-001-1",
+      "properties": {
+        "fieldId": "FLD-001-1",
+        "name": "La Esperanza · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.807,
+              -32.588
+            ],
+            [
+              -61.792,
+              -32.587
+            ],
+            [
+              -61.788,
+              -32.583
+            ],
+            [
+              -61.792,
+              -32.575
+            ],
+            [
+              -61.804,
+              -32.577
+            ],
+            [
+              -61.808,
+              -32.583
+            ],
+            [
+              -61.807,
+              -32.588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-001-2",
+      "properties": {
+        "fieldId": "FLD-001-2",
+        "name": "La Esperanza · 2",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.914,
+              -32.6
+            ],
+            [
+              -61.903,
+              -32.6
+            ],
+            [
+              -61.9,
+              -32.596
+            ],
+            [
+              -61.903,
+              -32.589
+            ],
+            [
+              -61.912,
+              -32.59
+            ],
+            [
+              -61.915,
+              -32.596
+            ],
+            [
+              -61.914,
+              -32.6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-002-1",
+      "properties": {
+        "fieldId": "FLD-002-1",
+        "name": "Los Álamos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.662,
+              -33.673
+            ],
+            [
+              -61.648,
+              -33.672
+            ],
+            [
+              -61.644,
+              -33.667
+            ],
+            [
+              -61.647,
+              -33.658
+            ],
+            [
+              -61.659,
+              -33.659
+            ],
+            [
+              -61.663,
+              -33.667
+            ],
+            [
+              -61.662,
+              -33.673
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-003-1",
+      "properties": {
+        "fieldId": "FLD-003-1",
+        "name": "El Ombú · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.616,
+          -33.794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-004-1",
+      "properties": {
+        "fieldId": "FLD-004-1",
+        "name": "Las Acacias · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.618,
+              -34.433
+            ],
+            [
+              -60.607,
+              -34.433
+            ],
+            [
+              -60.604,
+              -34.429
+            ],
+            [
+              -60.606,
+              -34.422
+            ],
+            [
+              -60.616,
+              -34.423
+            ],
+            [
+              -60.619,
+              -34.429
+            ],
+            [
+              -60.618,
+              -34.433
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-005-1",
+      "properties": {
+        "fieldId": "FLD-005-1",
+        "name": "Santa Clara · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.126,
+              -33.035
+            ],
+            [
+              -61.112,
+              -33.035
+            ],
+            [
+              -61.109,
+              -33.031
+            ],
+            [
+              -61.112,
+              -33.026
+            ],
+            [
+              -61.123,
+              -33.027
+            ],
+            [
+              -61.127,
+              -33.031
+            ],
+            [
+              -61.126,
+              -33.035
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-006-1",
+      "properties": {
+        "fieldId": "FLD-006-1",
+        "name": "El Horizonte · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.652,
+              -32.915
+            ],
+            [
+              -64.637,
+              -32.914
+            ],
+            [
+              -64.633,
+              -32.909
+            ],
+            [
+              -64.637,
+              -32.899
+            ],
+            [
+              -64.649,
+              -32.901
+            ],
+            [
+              -64.653,
+              -32.909
+            ],
+            [
+              -64.652,
+              -32.915
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-007-1",
+      "properties": {
+        "fieldId": "FLD-007-1",
+        "name": "La Calandria · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.186,
+              -32.938
+            ],
+            [
+              -62.171,
+              -32.937
+            ],
+            [
+              -62.167,
+              -32.933
+            ],
+            [
+              -62.17,
+              -32.925
+            ],
+            [
+              -62.183,
+              -32.926
+            ],
+            [
+              -62.188,
+              -32.933
+            ],
+            [
+              -62.186,
+              -32.938
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-008-1",
+      "properties": {
+        "fieldId": "FLD-008-1",
+        "name": "Los Aromos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.954,
+              -33.552
+            ],
+            [
+              -61.941,
+              -33.552
+            ],
+            [
+              -61.938,
+              -33.548
+            ],
+            [
+              -61.94,
+              -33.541
+            ],
+            [
+              -61.952,
+              -33.542
+            ],
+            [
+              -61.955,
+              -33.548
+            ],
+            [
+              -61.954,
+              -33.552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-009-1",
+      "properties": {
+        "fieldId": "FLD-009-1",
+        "name": "La Esperanza · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.649,
+              -33.965
+            ],
+            [
+              -60.637,
+              -33.965
+            ],
+            [
+              -60.634,
+              -33.962
+            ],
+            [
+              -60.636,
+              -33.956
+            ],
+            [
+              -60.647,
+              -33.957
+            ],
+            [
+              -60.65,
+              -33.962
+            ],
+            [
+              -60.649,
+              -33.965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-010-1",
+      "properties": {
+        "fieldId": "FLD-010-1",
+        "name": "Los Álamos · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.208,
+              -34.45
+            ],
+            [
+              -61.197,
+              -34.449
+            ],
+            [
+              -61.195,
+              -34.444
+            ],
+            [
+              -61.197,
+              -34.435
+            ],
+            [
+              -61.206,
+              -34.436
+            ],
+            [
+              -61.209,
+              -34.444
+            ],
+            [
+              -61.208,
+              -34.45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-011-1",
+      "properties": {
+        "fieldId": "FLD-011-1",
+        "name": "El Ombú · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.922,
+              -32.889
+            ],
+            [
+              -60.908,
+              -32.888
+            ],
+            [
+              -60.905,
+              -32.884
+            ],
+            [
+              -60.908,
+              -32.876
+            ],
+            [
+              -60.919,
+              -32.877
+            ],
+            [
+              -60.923,
+              -32.884
+            ],
+            [
+              -60.922,
+              -32.889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-012-1",
+      "properties": {
+        "fieldId": "FLD-012-1",
+        "name": "Las Acacias · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.033,
+          -32.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-012-2",
+      "properties": {
+        "fieldId": "FLD-012-2",
+        "name": "Las Acacias · 2",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.381,
+          -32.968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-013-1",
+      "properties": {
+        "fieldId": "FLD-013-1",
+        "name": "Santa Clara · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.04,
+              -32.802
+            ],
+            [
+              -62.026,
+              -32.802
+            ],
+            [
+              -62.022,
+              -32.798
+            ],
+            [
+              -62.025,
+              -32.793
+            ],
+            [
+              -62.037,
+              -32.793
+            ],
+            [
+              -62.041,
+              -32.798
+            ],
+            [
+              -62.04,
+              -32.802
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-014-1",
+      "properties": {
+        "fieldId": "FLD-014-1",
+        "name": "El Horizonte · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.984,
+              -33.355
+            ],
+            [
+              -61.973,
+              -33.355
+            ],
+            [
+              -61.97,
+              -33.351
+            ],
+            [
+              -61.972,
+              -33.344
+            ],
+            [
+              -61.982,
+              -33.345
+            ],
+            [
+              -61.985,
+              -33.351
+            ],
+            [
+              -61.984,
+              -33.355
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-015-1",
+      "properties": {
+        "fieldId": "FLD-015-1",
+        "name": "La Calandria · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.783,
+              -34.131
+            ],
+            [
+              -60.773,
+              -34.13
+            ],
+            [
+              -60.771,
+              -34.126
+            ],
+            [
+              -60.773,
+              -34.118
+            ],
+            [
+              -60.781,
+              -34.119
+            ],
+            [
+              -60.784,
+              -34.126
+            ],
+            [
+              -60.783,
+              -34.131
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-016-1",
+      "properties": {
+        "fieldId": "FLD-016-1",
+        "name": "Los Aromos · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.113,
+              -34.674
+            ],
+            [
+              -61.099,
+              -34.673
+            ],
+            [
+              -61.096,
+              -34.668
+            ],
+            [
+              -61.099,
+              -34.659
+            ],
+            [
+              -61.11,
+              -34.661
+            ],
+            [
+              -61.114,
+              -34.668
+            ],
+            [
+              -61.113,
+              -34.674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-017-1",
+      "properties": {
+        "fieldId": "FLD-017-1",
+        "name": "La Esperanza · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.505,
+              -32.886
+            ],
+            [
+              -61.493,
+              -32.885
+            ],
+            [
+              -61.49,
+              -32.88
+            ],
+            [
+              -61.493,
+              -32.87
+            ],
+            [
+              -61.503,
+              -32.872
+            ],
+            [
+              -61.506,
+              -32.88
+            ],
+            [
+              -61.505,
+              -32.886
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-018-1",
+      "properties": {
+        "fieldId": "FLD-018-1",
+        "name": "Los Álamos · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.092,
+              -33.313
+            ],
+            [
+              -64.079,
+              -33.312
+            ],
+            [
+              -64.076,
+              -33.308
+            ],
+            [
+              -64.079,
+              -33.3
+            ],
+            [
+              -64.09,
+              -33.301
+            ],
+            [
+              -64.093,
+              -33.308
+            ],
+            [
+              -64.092,
+              -33.313
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-019-1",
+      "properties": {
+        "fieldId": "FLD-019-1",
+        "name": "El Ombú · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.332,
+              -32.512
+            ],
+            [
+              -62.32,
+              -32.511
+            ],
+            [
+              -62.318,
+              -32.507
+            ],
+            [
+              -62.32,
+              -32.499
+            ],
+            [
+              -62.33,
+              -32.501
+            ],
+            [
+              -62.333,
+              -32.507
+            ],
+            [
+              -62.332,
+              -32.512
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-020-1",
+      "properties": {
+        "fieldId": "FLD-020-1",
+        "name": "Las Acacias · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.03,
+              -33.688
+            ],
+            [
+              -62.016,
+              -33.687
+            ],
+            [
+              -62.012,
+              -33.683
+            ],
+            [
+              -62.015,
+              -33.674
+            ],
+            [
+              -62.027,
+              -33.676
+            ],
+            [
+              -62.031,
+              -33.683
+            ],
+            [
+              -62.03,
+              -33.688
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-021-1",
+      "properties": {
+        "fieldId": "FLD-021-1",
+        "name": "Santa Clara · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.754,
+          -33.788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-022-1",
+      "properties": {
+        "fieldId": "FLD-022-1",
+        "name": "El Horizonte · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.782,
+              -34.468
+            ],
+            [
+              -60.771,
+              -34.467
+            ],
+            [
+              -60.768,
+              -34.463
+            ],
+            [
+              -60.771,
+              -34.455
+            ],
+            [
+              -60.78,
+              -34.456
+            ],
+            [
+              -60.783,
+              -34.463
+            ],
+            [
+              -60.782,
+              -34.468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-023-1",
+      "properties": {
+        "fieldId": "FLD-023-1",
+        "name": "La Calandria · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.486,
+              -33.118
+            ],
+            [
+              -61.473,
+              -33.117
+            ],
+            [
+              -61.469,
+              -33.112
+            ],
+            [
+              -61.472,
+              -33.104
+            ],
+            [
+              -61.484,
+              -33.105
+            ],
+            [
+              -61.487,
+              -33.112
+            ],
+            [
+              -61.486,
+              -33.118
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-023-2",
+      "properties": {
+        "fieldId": "FLD-023-2",
+        "name": "La Calandria · 2",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.463,
+              -32.992
+            ],
+            [
+              -61.453,
+              -32.991
+            ],
+            [
+              -61.45,
+              -32.986
+            ],
+            [
+              -61.452,
+              -32.978
+            ],
+            [
+              -61.461,
+              -32.979
+            ],
+            [
+              -61.464,
+              -32.986
+            ],
+            [
+              -61.463,
+              -32.992
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-024-1",
+      "properties": {
+        "fieldId": "FLD-024-1",
+        "name": "Los Aromos · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.23,
+              -33.249
+            ],
+            [
+              -64.216,
+              -33.249
+            ],
+            [
+              -64.212,
+              -33.245
+            ],
+            [
+              -64.215,
+              -33.239
+            ],
+            [
+              -64.227,
+              -33.24
+            ],
+            [
+              -64.231,
+              -33.245
+            ],
+            [
+              -64.23,
+              -33.249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-025-1",
+      "properties": {
+        "fieldId": "FLD-025-1",
+        "name": "La Esperanza · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.906,
+              -32.824
+            ],
+            [
+              -61.893,
+              -32.823
+            ],
+            [
+              -61.89,
+              -32.818
+            ],
+            [
+              -61.892,
+              -32.81
+            ],
+            [
+              -61.904,
+              -32.812
+            ],
+            [
+              -61.907,
+              -32.818
+            ],
+            [
+              -61.906,
+              -32.824
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-026-1",
+      "properties": {
+        "fieldId": "FLD-026-1",
+        "name": "Los Álamos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.924,
+              -33.606
+            ],
+            [
+              -61.911,
+              -33.606
+            ],
+            [
+              -61.907,
+              -33.602
+            ],
+            [
+              -61.91,
+              -33.596
+            ],
+            [
+              -61.921,
+              -33.597
+            ],
+            [
+              -61.925,
+              -33.602
+            ],
+            [
+              -61.924,
+              -33.606
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-027-1",
+      "properties": {
+        "fieldId": "FLD-027-1",
+        "name": "El Ombú · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.692,
+              -33.878
+            ],
+            [
+              -60.678,
+              -33.877
+            ],
+            [
+              -60.674,
+              -33.872
+            ],
+            [
+              -60.677,
+              -33.864
+            ],
+            [
+              -60.689,
+              -33.865
+            ],
+            [
+              -60.693,
+              -33.872
+            ],
+            [
+              -60.692,
+              -33.878
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-028-1",
+      "properties": {
+        "fieldId": "FLD-028-1",
+        "name": "Las Acacias · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.878,
+              -34.73
+            ],
+            [
+              -60.864,
+              -34.73
+            ],
+            [
+              -60.861,
+              -34.726
+            ],
+            [
+              -60.864,
+              -34.719
+            ],
+            [
+              -60.875,
+              -34.72
+            ],
+            [
+              -60.879,
+              -34.726
+            ],
+            [
+              -60.878,
+              -34.73
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-029-1",
+      "properties": {
+        "fieldId": "FLD-029-1",
+        "name": "Santa Clara · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.103,
+              -33.304
+            ],
+            [
+              -61.09,
+              -33.303
+            ],
+            [
+              -61.087,
+              -33.298
+            ],
+            [
+              -61.09,
+              -33.289
+            ],
+            [
+              -61.101,
+              -33.291
+            ],
+            [
+              -61.104,
+              -33.298
+            ],
+            [
+              -61.103,
+              -33.304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-030-1",
+      "properties": {
+        "fieldId": "FLD-030-1",
+        "name": "El Horizonte · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.371,
+          -32.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-031-1",
+      "properties": {
+        "fieldId": "FLD-031-1",
+        "name": "La Calandria · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.83,
+              -32.55
+            ],
+            [
+              -61.817,
+              -32.55
+            ],
+            [
+              -61.814,
+              -32.545
+            ],
+            [
+              -61.817,
+              -32.538
+            ],
+            [
+              -61.828,
+              -32.54
+            ],
+            [
+              -61.831,
+              -32.545
+            ],
+            [
+              -61.83,
+              -32.55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-032-1",
+      "properties": {
+        "fieldId": "FLD-032-1",
+        "name": "Los Aromos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.754,
+              -33.473
+            ],
+            [
+              -61.743,
+              -33.473
+            ],
+            [
+              -61.74,
+              -33.468
+            ],
+            [
+              -61.742,
+              -33.461
+            ],
+            [
+              -61.752,
+              -33.463
+            ],
+            [
+              -61.755,
+              -33.468
+            ],
+            [
+              -61.754,
+              -33.473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-033-1",
+      "properties": {
+        "fieldId": "FLD-033-1",
+        "name": "La Esperanza · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.261,
+              -34.059
+            ],
+            [
+              -60.25,
+              -34.058
+            ],
+            [
+              -60.248,
+              -34.054
+            ],
+            [
+              -60.25,
+              -34.046
+            ],
+            [
+              -60.259,
+              -34.047
+            ],
+            [
+              -60.262,
+              -34.054
+            ],
+            [
+              -60.261,
+              -34.059
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-034-1",
+      "properties": {
+        "fieldId": "FLD-034-1",
+        "name": "Los Álamos · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.902,
+              -34.555
+            ],
+            [
+              -60.887,
+              -34.555
+            ],
+            [
+              -60.883,
+              -34.55
+            ],
+            [
+              -60.887,
+              -34.543
+            ],
+            [
+              -60.899,
+              -34.544
+            ],
+            [
+              -60.903,
+              -34.55
+            ],
+            [
+              -60.902,
+              -34.555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-034-2",
+      "properties": {
+        "fieldId": "FLD-034-2",
+        "name": "Los Álamos · 2",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.073,
+              -34.415
+            ],
+            [
+              -61.06,
+              -34.414
+            ],
+            [
+              -61.056,
+              -34.409
+            ],
+            [
+              -61.059,
+              -34.4
+            ],
+            [
+              -61.07,
+              -34.401
+            ],
+            [
+              -61.074,
+              -34.409
+            ],
+            [
+              -61.073,
+              -34.415
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-035-1",
+      "properties": {
+        "fieldId": "FLD-035-1",
+        "name": "El Ombú · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.888,
+              -33.3
+            ],
+            [
+              -60.875,
+              -33.3
+            ],
+            [
+              -60.872,
+              -33.295
+            ],
+            [
+              -60.874,
+              -33.288
+            ],
+            [
+              -60.886,
+              -33.289
+            ],
+            [
+              -60.889,
+              -33.295
+            ],
+            [
+              -60.888,
+              -33.3
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-036-1",
+      "properties": {
+        "fieldId": "FLD-036-1",
+        "name": "Las Acacias · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.117,
+              -33.194
+            ],
+            [
+              -64.105,
+              -33.194
+            ],
+            [
+              -64.102,
+              -33.19
+            ],
+            [
+              -64.105,
+              -33.185
+            ],
+            [
+              -64.115,
+              -33.186
+            ],
+            [
+              -64.118,
+              -33.19
+            ],
+            [
+              -64.117,
+              -33.194
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-037-1",
+      "properties": {
+        "fieldId": "FLD-037-1",
+        "name": "Santa Clara · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.998,
+              -32.874
+            ],
+            [
+              -61.988,
+              -32.874
+            ],
+            [
+              -61.985,
+              -32.869
+            ],
+            [
+              -61.987,
+              -32.862
+            ],
+            [
+              -61.996,
+              -32.864
+            ],
+            [
+              -61.999,
+              -32.869
+            ],
+            [
+              -61.998,
+              -32.874
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-038-1",
+      "properties": {
+        "fieldId": "FLD-038-1",
+        "name": "El Horizonte · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.675,
+              -33.498
+            ],
+            [
+              -61.663,
+              -33.498
+            ],
+            [
+              -61.66,
+              -33.494
+            ],
+            [
+              -61.662,
+              -33.489
+            ],
+            [
+              -61.673,
+              -33.49
+            ],
+            [
+              -61.676,
+              -33.494
+            ],
+            [
+              -61.675,
+              -33.498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-039-1",
+      "properties": {
+        "fieldId": "FLD-039-1",
+        "name": "La Calandria · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.663,
+          -33.946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-040-1",
+      "properties": {
+        "fieldId": "FLD-040-1",
+        "name": "Los Aromos · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.998,
+              -34.461
+            ],
+            [
+              -60.988,
+              -34.461
+            ],
+            [
+              -60.985,
+              -34.456
+            ],
+            [
+              -60.987,
+              -34.449
+            ],
+            [
+              -60.996,
+              -34.45
+            ],
+            [
+              -60.999,
+              -34.456
+            ],
+            [
+              -60.998,
+              -34.461
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-041-1",
+      "properties": {
+        "fieldId": "FLD-041-1",
+        "name": "La Esperanza · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.184,
+              -33.122
+            ],
+            [
+              -61.174,
+              -33.122
+            ],
+            [
+              -61.171,
+              -33.119
+            ],
+            [
+              -61.173,
+              -33.114
+            ],
+            [
+              -61.182,
+              -33.115
+            ],
+            [
+              -61.185,
+              -33.119
+            ],
+            [
+              -61.184,
+              -33.122
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-042-1",
+      "properties": {
+        "fieldId": "FLD-042-1",
+        "name": "Los Álamos · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.642,
+              -32.906
+            ],
+            [
+              -64.63,
+              -32.906
+            ],
+            [
+              -64.628,
+              -32.901
+            ],
+            [
+              -64.63,
+              -32.895
+            ],
+            [
+              -64.64,
+              -32.896
+            ],
+            [
+              -64.643,
+              -32.901
+            ],
+            [
+              -64.642,
+              -32.906
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-043-1",
+      "properties": {
+        "fieldId": "FLD-043-1",
+        "name": "El Ombú · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.841,
+              -32.603
+            ],
+            [
+              -61.828,
+              -32.602
+            ],
+            [
+              -61.825,
+              -32.597
+            ],
+            [
+              -61.828,
+              -32.588
+            ],
+            [
+              -61.839,
+              -32.59
+            ],
+            [
+              -61.842,
+              -32.597
+            ],
+            [
+              -61.841,
+              -32.603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-044-1",
+      "properties": {
+        "fieldId": "FLD-044-1",
+        "name": "Las Acacias · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.199,
+              -33.602
+            ],
+            [
+              -62.185,
+              -33.601
+            ],
+            [
+              -62.182,
+              -33.596
+            ],
+            [
+              -62.185,
+              -33.587
+            ],
+            [
+              -62.196,
+              -33.589
+            ],
+            [
+              -62.2,
+              -33.596
+            ],
+            [
+              -62.199,
+              -33.602
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-045-1",
+      "properties": {
+        "fieldId": "FLD-045-1",
+        "name": "Santa Clara · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.685,
+              -33.727
+            ],
+            [
+              -60.669,
+              -33.727
+            ],
+            [
+              -60.665,
+              -33.723
+            ],
+            [
+              -60.668,
+              -33.717
+            ],
+            [
+              -60.682,
+              -33.718
+            ],
+            [
+              -60.687,
+              -33.723
+            ],
+            [
+              -60.685,
+              -33.727
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-045-2",
+      "properties": {
+        "fieldId": "FLD-045-2",
+        "name": "Santa Clara · 2",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.588,
+              -33.746
+            ],
+            [
+              -60.572,
+              -33.746
+            ],
+            [
+              -60.568,
+              -33.741
+            ],
+            [
+              -60.572,
+              -33.734
+            ],
+            [
+              -60.585,
+              -33.735
+            ],
+            [
+              -60.59,
+              -33.741
+            ],
+            [
+              -60.588,
+              -33.746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-046-1",
+      "properties": {
+        "fieldId": "FLD-046-1",
+        "name": "El Horizonte · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.722,
+              -34.481
+            ],
+            [
+              -60.706,
+              -34.48
+            ],
+            [
+              -60.701,
+              -34.475
+            ],
+            [
+              -60.705,
+              -34.466
+            ],
+            [
+              -60.719,
+              -34.467
+            ],
+            [
+              -60.724,
+              -34.475
+            ],
+            [
+              -60.722,
+              -34.481
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-047-1",
+      "properties": {
+        "fieldId": "FLD-047-1",
+        "name": "La Calandria · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.203,
+              -33.249
+            ],
+            [
+              -61.193,
+              -33.248
+            ],
+            [
+              -61.191,
+              -33.243
+            ],
+            [
+              -61.193,
+              -33.234
+            ],
+            [
+              -61.201,
+              -33.235
+            ],
+            [
+              -61.204,
+              -33.243
+            ],
+            [
+              -61.203,
+              -33.249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-048-1",
+      "properties": {
+        "fieldId": "FLD-048-1",
+        "name": "Los Aromos · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.442,
+          -33.089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-049-1",
+      "properties": {
+        "fieldId": "FLD-049-1",
+        "name": "La Esperanza · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.22,
+              -32.636
+            ],
+            [
+              -62.209,
+              -32.635
+            ],
+            [
+              -62.207,
+              -32.63
+            ],
+            [
+              -62.209,
+              -32.622
+            ],
+            [
+              -62.218,
+              -32.624
+            ],
+            [
+              -62.221,
+              -32.63
+            ],
+            [
+              -62.22,
+              -32.636
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-050-1",
+      "properties": {
+        "fieldId": "FLD-050-1",
+        "name": "Los Álamos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.623,
+              -33.775
+            ],
+            [
+              -61.61,
+              -33.774
+            ],
+            [
+              -61.606,
+              -33.77
+            ],
+            [
+              -61.609,
+              -33.762
+            ],
+            [
+              -61.62,
+              -33.763
+            ],
+            [
+              -61.624,
+              -33.77
+            ],
+            [
+              -61.623,
+              -33.775
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-051-1",
+      "properties": {
+        "fieldId": "FLD-051-1",
+        "name": "El Ombú · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.488,
+              -33.642
+            ],
+            [
+              -60.471,
+              -33.642
+            ],
+            [
+              -60.467,
+              -33.637
+            ],
+            [
+              -60.471,
+              -33.63
+            ],
+            [
+              -60.485,
+              -33.631
+            ],
+            [
+              -60.49,
+              -33.637
+            ],
+            [
+              -60.488,
+              -33.642
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-052-1",
+      "properties": {
+        "fieldId": "FLD-052-1",
+        "name": "Las Acacias · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.19,
+              -34.633
+            ],
+            [
+              -61.177,
+              -34.633
+            ],
+            [
+              -61.174,
+              -34.629
+            ],
+            [
+              -61.177,
+              -34.622
+            ],
+            [
+              -61.188,
+              -34.624
+            ],
+            [
+              -61.191,
+              -34.629
+            ],
+            [
+              -61.19,
+              -34.633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-053-1",
+      "properties": {
+        "fieldId": "FLD-053-1",
+        "name": "Santa Clara · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.432,
+              -33.081
+            ],
+            [
+              -61.416,
+              -33.081
+            ],
+            [
+              -61.412,
+              -33.077
+            ],
+            [
+              -61.416,
+              -33.07
+            ],
+            [
+              -61.429,
+              -33.071
+            ],
+            [
+              -61.434,
+              -33.077
+            ],
+            [
+              -61.432,
+              -33.081
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-054-1",
+      "properties": {
+        "fieldId": "FLD-054-1",
+        "name": "El Horizonte · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -63.975,
+              -33.028
+            ],
+            [
+              -63.965,
+              -33.028
+            ],
+            [
+              -63.963,
+              -33.023
+            ],
+            [
+              -63.965,
+              -33.017
+            ],
+            [
+              -63.973,
+              -33.018
+            ],
+            [
+              -63.976,
+              -33.023
+            ],
+            [
+              -63.975,
+              -33.028
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-055-1",
+      "properties": {
+        "fieldId": "FLD-055-1",
+        "name": "La Calandria · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.333,
+              -32.498
+            ],
+            [
+              -62.318,
+              -32.497
+            ],
+            [
+              -62.315,
+              -32.492
+            ],
+            [
+              -62.318,
+              -32.483
+            ],
+            [
+              -62.33,
+              -32.485
+            ],
+            [
+              -62.334,
+              -32.492
+            ],
+            [
+              -62.333,
+              -32.498
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-056-1",
+      "properties": {
+        "fieldId": "FLD-056-1",
+        "name": "Los Aromos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.077,
+              -33.416
+            ],
+            [
+              -62.063,
+              -33.416
+            ],
+            [
+              -62.06,
+              -33.412
+            ],
+            [
+              -62.063,
+              -33.405
+            ],
+            [
+              -62.074,
+              -33.406
+            ],
+            [
+              -62.078,
+              -33.412
+            ],
+            [
+              -62.077,
+              -33.416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-056-2",
+      "properties": {
+        "fieldId": "FLD-056-2",
+        "name": "Los Aromos · 2",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.639,
+              -33.735
+            ],
+            [
+              -61.623,
+              -33.734
+            ],
+            [
+              -61.619,
+              -33.73
+            ],
+            [
+              -61.623,
+              -33.721
+            ],
+            [
+              -61.636,
+              -33.723
+            ],
+            [
+              -61.641,
+              -33.73
+            ],
+            [
+              -61.639,
+              -33.735
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-057-1",
+      "properties": {
+        "fieldId": "FLD-057-1",
+        "name": "La Esperanza · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.761,
+          -33.832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-058-1",
+      "properties": {
+        "fieldId": "FLD-058-1",
+        "name": "Los Álamos · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.724,
+              -34.607
+            ],
+            [
+              -60.708,
+              -34.606
+            ],
+            [
+              -60.704,
+              -34.601
+            ],
+            [
+              -60.707,
+              -34.592
+            ],
+            [
+              -60.721,
+              -34.593
+            ],
+            [
+              -60.726,
+              -34.601
+            ],
+            [
+              -60.724,
+              -34.607
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-059-1",
+      "properties": {
+        "fieldId": "FLD-059-1",
+        "name": "El Ombú · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.424,
+              -33.28
+            ],
+            [
+              -61.413,
+              -33.28
+            ],
+            [
+              -61.411,
+              -33.276
+            ],
+            [
+              -61.413,
+              -33.269
+            ],
+            [
+              -61.422,
+              -33.27
+            ],
+            [
+              -61.425,
+              -33.276
+            ],
+            [
+              -61.424,
+              -33.28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-060-1",
+      "properties": {
+        "fieldId": "FLD-060-1",
+        "name": "Las Acacias · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.599,
+              -33.187
+            ],
+            [
+              -64.588,
+              -33.186
+            ],
+            [
+              -64.585,
+              -33.182
+            ],
+            [
+              -64.587,
+              -33.174
+            ],
+            [
+              -64.597,
+              -33.175
+            ],
+            [
+              -64.6,
+              -33.182
+            ],
+            [
+              -64.599,
+              -33.187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-061-1",
+      "properties": {
+        "fieldId": "FLD-061-1",
+        "name": "Santa Clara · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.379,
+              -32.626
+            ],
+            [
+              -62.363,
+              -32.626
+            ],
+            [
+              -62.36,
+              -32.623
+            ],
+            [
+              -62.363,
+              -32.618
+            ],
+            [
+              -62.376,
+              -32.619
+            ],
+            [
+              -62.381,
+              -32.623
+            ],
+            [
+              -62.379,
+              -32.626
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-062-1",
+      "properties": {
+        "fieldId": "FLD-062-1",
+        "name": "El Horizonte · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.258,
+              -33.531
+            ],
+            [
+              -62.243,
+              -33.53
+            ],
+            [
+              -62.239,
+              -33.526
+            ],
+            [
+              -62.242,
+              -33.517
+            ],
+            [
+              -62.255,
+              -33.519
+            ],
+            [
+              -62.26,
+              -33.526
+            ],
+            [
+              -62.258,
+              -33.531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-063-1",
+      "properties": {
+        "fieldId": "FLD-063-1",
+        "name": "La Calandria · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.466,
+              -34.069
+            ],
+            [
+              -60.456,
+              -34.069
+            ],
+            [
+              -60.453,
+              -34.065
+            ],
+            [
+              -60.455,
+              -34.059
+            ],
+            [
+              -60.464,
+              -34.06
+            ],
+            [
+              -60.467,
+              -34.065
+            ],
+            [
+              -60.466,
+              -34.069
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-064-1",
+      "properties": {
+        "fieldId": "FLD-064-1",
+        "name": "Los Aromos · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.736,
+              -34.59
+            ],
+            [
+              -60.72,
+              -34.59
+            ],
+            [
+              -60.716,
+              -34.586
+            ],
+            [
+              -60.72,
+              -34.579
+            ],
+            [
+              -60.733,
+              -34.58
+            ],
+            [
+              -60.738,
+              -34.586
+            ],
+            [
+              -60.736,
+              -34.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-065-1",
+      "properties": {
+        "fieldId": "FLD-065-1",
+        "name": "La Esperanza · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.144,
+              -32.966
+            ],
+            [
+              -61.134,
+              -32.966
+            ],
+            [
+              -61.132,
+              -32.962
+            ],
+            [
+              -61.134,
+              -32.956
+            ],
+            [
+              -61.142,
+              -32.957
+            ],
+            [
+              -61.145,
+              -32.962
+            ],
+            [
+              -61.144,
+              -32.966
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-066-1",
+      "properties": {
+        "fieldId": "FLD-066-1",
+        "name": "Los Álamos · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.119,
+          -33.274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-067-1",
+      "properties": {
+        "fieldId": "FLD-067-1",
+        "name": "El Ombú · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.389,
+              -32.72
+            ],
+            [
+              -62.376,
+              -32.719
+            ],
+            [
+              -62.373,
+              -32.714
+            ],
+            [
+              -62.376,
+              -32.705
+            ],
+            [
+              -62.387,
+              -32.706
+            ],
+            [
+              -62.39,
+              -32.714
+            ],
+            [
+              -62.389,
+              -32.72
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-067-2",
+      "properties": {
+        "fieldId": "FLD-067-2",
+        "name": "El Ombú · 2",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.95,
+              -32.731
+            ],
+            [
+              -61.935,
+              -32.73
+            ],
+            [
+              -61.931,
+              -32.725
+            ],
+            [
+              -61.934,
+              -32.717
+            ],
+            [
+              -61.947,
+              -32.718
+            ],
+            [
+              -61.952,
+              -32.725
+            ],
+            [
+              -61.95,
+              -32.731
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-068-1",
+      "properties": {
+        "fieldId": "FLD-068-1",
+        "name": "Las Acacias · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -62.178,
+              -33.828
+            ],
+            [
+              -62.164,
+              -33.828
+            ],
+            [
+              -62.16,
+              -33.825
+            ],
+            [
+              -62.163,
+              -33.819
+            ],
+            [
+              -62.175,
+              -33.82
+            ],
+            [
+              -62.179,
+              -33.825
+            ],
+            [
+              -62.178,
+              -33.828
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-069-1",
+      "properties": {
+        "fieldId": "FLD-069-1",
+        "name": "Santa Clara · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.776,
+              -34.01
+            ],
+            [
+              -60.762,
+              -34.009
+            ],
+            [
+              -60.758,
+              -34.005
+            ],
+            [
+              -60.761,
+              -33.997
+            ],
+            [
+              -60.773,
+              -33.998
+            ],
+            [
+              -60.777,
+              -34.005
+            ],
+            [
+              -60.776,
+              -34.01
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-070-1",
+      "properties": {
+        "fieldId": "FLD-070-1",
+        "name": "El Horizonte · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.722,
+              -34.388
+            ],
+            [
+              -60.709,
+              -34.388
+            ],
+            [
+              -60.706,
+              -34.385
+            ],
+            [
+              -60.709,
+              -34.379
+            ],
+            [
+              -60.72,
+              -34.38
+            ],
+            [
+              -60.723,
+              -34.385
+            ],
+            [
+              -60.722,
+              -34.388
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-071-1",
+      "properties": {
+        "fieldId": "FLD-071-1",
+        "name": "La Calandria · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.274,
+              -33.017
+            ],
+            [
+              -61.258,
+              -33.016
+            ],
+            [
+              -61.254,
+              -33.011
+            ],
+            [
+              -61.257,
+              -33.003
+            ],
+            [
+              -61.271,
+              -33.005
+            ],
+            [
+              -61.276,
+              -33.011
+            ],
+            [
+              -61.274,
+              -33.017
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-072-1",
+      "properties": {
+        "fieldId": "FLD-072-1",
+        "name": "Los Aromos · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -64.212,
+              -33.204
+            ],
+            [
+              -64.197,
+              -33.203
+            ],
+            [
+              -64.194,
+              -33.198
+            ],
+            [
+              -64.197,
+              -33.189
+            ],
+            [
+              -64.209,
+              -33.191
+            ],
+            [
+              -64.213,
+              -33.198
+            ],
+            [
+              -64.212,
+              -33.204
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-073-1",
+      "properties": {
+        "fieldId": "FLD-073-1",
+        "name": "La Esperanza · 1",
+        "province": "Córdoba",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.773,
+              -32.884
+            ],
+            [
+              -61.762,
+              -32.884
+            ],
+            [
+              -61.759,
+              -32.881
+            ],
+            [
+              -61.762,
+              -32.876
+            ],
+            [
+              -61.771,
+              -32.876
+            ],
+            [
+              -61.774,
+              -32.881
+            ],
+            [
+              -61.773,
+              -32.884
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-074-1",
+      "properties": {
+        "fieldId": "FLD-074-1",
+        "name": "Los Álamos · 1",
+        "province": "Santa Fe",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.759,
+              -33.493
+            ],
+            [
+              -61.745,
+              -33.492
+            ],
+            [
+              -61.741,
+              -33.488
+            ],
+            [
+              -61.744,
+              -33.48
+            ],
+            [
+              -61.756,
+              -33.481
+            ],
+            [
+              -61.76,
+              -33.488
+            ],
+            [
+              -61.759,
+              -33.493
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FLD-075-1",
+      "properties": {
+        "fieldId": "FLD-075-1",
+        "name": "El Ombú · 1",
+        "province": "Buenos Aires",
+        "synthetic": true
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.333,
+          -33.726
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+loan_id,borrower,currency,outstanding,crop,province,latitude,longitude,officer,repayment_date
+LN-001,Alvarez Farms,USD,437000,Maize · early,Córdoba,-32.588,-61.807,Ana Torres,2027-02-27
+LN-NEW-001,Inés Demo,USD,125000,Maize · early,Córdoba,-32.75,-62.1,Ana Torres,2027-02-15
+LN-BAD,Invalid demo,EUR,-4,Rice,Unknown,95,200,Ana Torres,invalid

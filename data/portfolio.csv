@@ -1,0 +1,76 @@
+loan_id,borrower,currency,outstanding,crop,province,latitude,longitude,officer,repayment_date
+LN-001,Alvarez Farms,USD,437000,Maize · early,Córdoba,-32.588,-61.807,Ana Torres,2027-02-27
+LN-002,Alvarez Farms,USD,519000,Maize · late,Santa Fe,-33.673,-61.662,Diego Costa,2027-02-28
+LN-003,Valle Verde SA,USD,219000,Soybean · first,Buenos Aires,-33.794,-60.616,Sofía Paz,2027-03-01
+LN-004,Valle Verde SA,USD,439000,Soybean · first,Buenos Aires,-34.433,-60.618,Ana Torres,2027-03-02
+LN-005,Campo Norte,ARS,510178000,Wheat,Santa Fe,-33.035,-61.126,Diego Costa,2027-02-25
+LN-006,Campo Norte,ARS,146545000,Maize · early,Córdoba,-32.915,-64.652,Sofía Paz,2027-03-04
+LN-007,Estancia Sur,USD,468000,Maize · late,Córdoba,-32.938,-62.186,Ana Torres,2027-03-05
+LN-008,Estancia Sur,ARS,226195000,Wheat,Santa Fe,-33.552,-61.954,Diego Costa,2027-03-06
+LN-009,AgroAndes,ARS,139445000,Soybean · second,Buenos Aires,-33.965,-60.649,Sofía Paz,2027-03-07
+LN-010,AgroAndes,USD,277000,Wheat,Buenos Aires,-34.45,-61.208,Ana Torres,2027-03-08
+LN-011,Río Claro Agro,ARS,407235000,Maize · early,Santa Fe,-32.889,-60.922,Diego Costa,2027-03-09
+LN-012,Río Claro Agro,ARS,77117000,Maize · late,Córdoba,-32.948,-64.033,Sofía Paz,2027-03-10
+LN-013,La Pampa Farms,USD,,Soybean · first,Córdoba,-32.802,-62.04,Ana Torres,2027-03-11
+LN-014,La Pampa Farms,ARS,334531000,Soybean · first,Santa Fe,-33.355,-61.984,Diego Costa,2027-02-10
+LN-015,San Miguel Agro,ARS,263180000,Wheat,Buenos Aires,-34.131,-60.783,Sofía Paz,2027-02-25
+LN-016,San Miguel Agro,USD,475000,Maize · early,Buenos Aires,-34.674,-61.113,Ana Torres,2027-03-14
+LN-017,Clara Ledesma Agro,ARS,326068000,Maize · late,Santa Fe,-32.886,-61.505,Diego Costa,2027-03-15
+LN-018,Clara Ledesma Agro,ARS,202991000,Wheat,Córdoba,-33.313,-64.092,Sofía Paz,2027-03-16
+LN-019,Santiago Romero Agro,USD,684000,Soybean · second,Córdoba,-32.512,-62.332,Ana Torres,2027-03-17
+LN-020,Santiago Romero Agro,ARS,555012000,Wheat,Santa Fe,-33.688,-62.03,Diego Costa,2027-03-18
+LN-021,Lucía Cabrera Agro,ARS,200311000,Maize · early,Buenos Aires,-33.788,-60.754,Sofía Paz,2027-03-19
+LN-022,Lucía Cabrera Agro,USD,176000,Maize · late,Buenos Aires,-34.468,-60.782,Ana Torres,2027-03-20
+LN-023,Mateo Suárez Agro,ARS,524104000,Soybean · first,Santa Fe,-33.118,-61.486,Diego Costa,2027-03-21
+LN-024,Mateo Suárez Agro,ARS,178005000,Soybean · first,Córdoba,-33.249,-64.23,Sofía Paz,2027-03-22
+LN-025,Elena Medina Agro,USD,208000,Wheat,Córdoba,-32.824,-61.906,Ana Torres,2027-02-25
+LN-026,Elena Medina Agro,ARS,184241000,Maize · early,Santa Fe,-33.606,-61.924,Diego Costa,2027-03-24
+LN-027,Tomás Quiroga Agro,ARS,279773000,Maize · late,Buenos Aires,-33.878,-60.692,Sofía Paz,2027-02-10
+LN-028,Tomás Quiroga Agro,USD,624000,Wheat,Buenos Aires,-34.73,-60.878,Ana Torres,2027-03-26
+LN-029,Valentina Ríos Agro,ARS,115620000,Soybean · second,Santa Fe,-33.304,-61.103,Diego Costa,2027-03-27
+LN-030,Valentina Ríos Agro,ARS,411970000,Wheat,Córdoba,-32.993,-64.371,Sofía Paz,2027-03-28
+LN-031,Martín Ferreyra Agro,USD,320000,Maize · early,Córdoba,-32.55,-61.83,Ana Torres,2027-03-29
+LN-032,Martín Ferreyra Agro,ARS,120396000,Maize · late,Santa Fe,-33.473,-61.754,Diego Costa,2027-03-30
+LN-033,Camila Molina Agro,ARS,225655000,Soybean · first,Buenos Aires,-34.059,-60.261,Sofía Paz,2027-03-31
+LN-034,Camila Molina Agro,USD,95000,Soybean · first,Buenos Aires,-34.555,-60.902,Ana Torres,2027-04-01
+LN-035,Julián Acosta Agro,ARS,422374000,Wheat,Santa Fe,-33.3,-60.888,Diego Costa,2027-02-25
+LN-036,Julián Acosta Agro,ARS,263054000,Maize · early,Córdoba,-33.194,-64.117,Sofía Paz,2027-04-03
+LN-037,Clara Benítez Agro,USD,205000,Maize · late,Córdoba,-32.874,-61.998,Ana Torres,2027-04-04
+LN-038,Clara Benítez Agro,ARS,222702000,Wheat,Santa Fe,-33.498,-61.675,Diego Costa,2027-04-05
+LN-039,Santiago Roldán Agro,ARS,287523000,Soybean · second,Buenos Aires,-33.946,-60.663,Sofía Paz,2027-04-06
+LN-040,Santiago Roldán Agro,USD,359000,Wheat,Buenos Aires,-34.461,-60.998,Ana Torres,2027-02-10
+LN-041,Lucía Pereyra Agro,ARS,324869000,Maize · early,Santa Fe,-33.122,-61.184,Diego Costa,2027-04-08
+LN-042,Lucía Pereyra Agro,ARS,53755000,Maize · late,Córdoba,-32.906,-64.642,Sofía Paz,2027-04-09
+LN-043,Mateo Sosa Agro,USD,616000,Soybean · first,Córdoba,-32.603,-61.841,Ana Torres,2027-04-10
+LN-044,Mateo Sosa Agro,ARS,528201000,Soybean · first,Santa Fe,-33.602,-62.199,Diego Costa,2027-04-11
+LN-045,Elena Vega Agro,ARS,192422000,Wheat,Buenos Aires,-33.727,-60.685,Sofía Paz,2027-02-25
+LN-046,Elena Vega Agro,USD,221000,Maize · early,Buenos Aires,-34.481,-60.722,Ana Torres,2027-04-13
+LN-047,Tomás Ledesma Agro,ARS,112158000,Maize · late,Santa Fe,-33.249,-61.203,Diego Costa,2027-04-14
+LN-048,Tomás Ledesma Agro,ARS,119476000,Wheat,Córdoba,-33.089,-64.442,Sofía Paz,2027-04-15
+LN-049,Valentina Romero Agro,USD,532000,Soybean · second,Córdoba,-32.636,-62.22,Ana Torres,2027-04-16
+LN-050,Valentina Romero Agro,ARS,407535000,Wheat,Santa Fe,-33.775,-61.623,Diego Costa,2027-04-17
+LN-051,Martín Cabrera Agro,ARS,296954000,Maize · early,Buenos Aires,-33.642,-60.488,Sofía Paz,2027-04-18
+LN-052,Martín Cabrera Agro,USD,329000,Maize · late,Buenos Aires,-34.633,-61.19,Ana Torres,2027-04-19
+LN-053,Camila Suárez Agro,ARS,412255000,Soybean · first,Santa Fe,-33.081,-61.432,Diego Costa,2027-02-10
+LN-054,Camila Suárez Agro,ARS,561541000,Soybean · first,Córdoba,-33.028,-63.975,Sofía Paz,2027-04-21
+LN-055,Julián Medina Agro,USD,195000,Wheat,Córdoba,-32.498,-62.333,Ana Torres,2027-02-25
+LN-056,Julián Medina Agro,ARS,279647000,Maize · early,Santa Fe,-33.416,-62.077,Diego Costa,2027-04-23
+LN-057,Clara Quiroga Agro,ARS,286319000,Maize · late,Buenos Aires,-33.832,-60.761,Sofía Paz,2027-04-24
+LN-058,Clara Quiroga Agro,USD,320000,Wheat,Buenos Aires,-34.607,-60.724,Ana Torres,2027-04-25
+LN-059,Santiago Ríos Agro,ARS,268215000,Soybean · second,Santa Fe,-33.28,-61.424,Diego Costa,2027-04-26
+LN-060,Santiago Ríos Agro,ARS,563536000,Wheat,Córdoba,-33.187,-64.599,Sofía Paz,2027-04-27
+LN-061,Lucía Ferreyra Agro,USD,544000,Maize · early,Córdoba,-32.626,-62.379,Ana Torres,2027-04-28
+LN-062,Lucía Ferreyra Agro,ARS,196494000,Maize · late,Santa Fe,-33.531,-62.258,Diego Costa,2027-04-29
+LN-063,Mateo Molina Agro,ARS,113876000,Soybean · first,Buenos Aires,-34.069,-60.466,Sofía Paz,2027-04-30
+LN-064,Mateo Molina Agro,USD,555000,Soybean · first,Buenos Aires,-34.59,-60.736,Ana Torres,2027-05-01
+LN-065,Elena Acosta Agro,ARS,516440000,Wheat,Santa Fe,-32.966,-61.144,Diego Costa,2027-02-25
+LN-066,Elena Acosta Agro,ARS,124534000,Maize · early,Córdoba,-33.274,-64.119,Sofía Paz,2027-02-10
+LN-067,Tomás Benítez Agro,USD,391000,Maize · late,Córdoba,-32.72,-62.389,Ana Torres,2027-05-04
+LN-068,Tomás Benítez Agro,ARS,499826000,Wheat,Santa Fe,-33.828,-62.178,Diego Costa,2027-05-05
+LN-069,Valentina Roldán Agro,ARS,185604000,Soybean · second,Buenos Aires,-34.01,-60.776,Sofía Paz,2027-02-27
+LN-070,Valentina Roldán Agro,USD,310000,Wheat,Buenos Aires,-34.388,-60.722,Ana Torres,2027-02-28
+LN-071,Martín Pereyra Agro,ARS,383784000,Maize · early,Santa Fe,-33.017,-61.274,Diego Costa,2027-03-01
+LN-072,Martín Pereyra Agro,ARS,475353000,Maize · late,Córdoba,-33.204,-64.212,Sofía Paz,2027-03-02
+LN-073,Camila Sosa Agro,USD,330000,Soybean · first,Córdoba,-32.884,-61.773,Ana Torres,2027-03-03
+LN-074,Camila Sosa Agro,ARS,316727000,Soybean · first,Santa Fe,-33.493,-61.759,Diego Costa,2027-03-04
+LN-075,Julián Vega Agro,ARS,488331000,Wheat,Buenos Aires,-33.726,-60.333,Sofía Paz,2027-02-25

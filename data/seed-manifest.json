@@ -1,0 +1,8 @@
+{
+  "seed": 20261107,
+  "date": "2027-02-15",
+  "loans": 75,
+  "fields": 82,
+  "synthetic": true,
+  "reset": "npm run reset-demo regenerates the original fixtures; the app Reset demo control clears browser changes."
+}

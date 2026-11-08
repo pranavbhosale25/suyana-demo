@@ -1949,6 +1949,7 @@
       "name": "La Esperanza · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -1992,6 +1993,7 @@
       "name": "La Esperanza · 2",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2035,6 +2037,7 @@
       "name": "Los Álamos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2078,6 +2081,7 @@
       "name": "El Ombú · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2093,6 +2097,7 @@
       "name": "Las Acacias · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2136,6 +2141,7 @@
       "name": "Santa Clara · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2179,6 +2185,7 @@
       "name": "El Horizonte · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2222,6 +2229,7 @@
       "name": "La Calandria · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2265,6 +2273,7 @@
       "name": "Los Aromos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2308,6 +2317,7 @@
       "name": "La Esperanza · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2351,6 +2361,7 @@
       "name": "Los Álamos · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2394,6 +2405,7 @@
       "name": "El Ombú · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2437,6 +2449,7 @@
       "name": "Las Acacias · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2452,6 +2465,7 @@
       "name": "Las Acacias · 2",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2467,6 +2481,7 @@
       "name": "Santa Clara · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2510,6 +2525,7 @@
       "name": "El Horizonte · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2553,6 +2569,7 @@
       "name": "La Calandria · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2596,6 +2613,7 @@
       "name": "Los Aromos · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2639,6 +2657,7 @@
       "name": "La Esperanza · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2682,6 +2701,7 @@
       "name": "Los Álamos · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2725,6 +2745,7 @@
       "name": "El Ombú · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2768,6 +2789,7 @@
       "name": "Las Acacias · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2811,6 +2833,7 @@
       "name": "Santa Clara · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -2826,6 +2849,7 @@
       "name": "El Horizonte · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2869,6 +2893,7 @@
       "name": "La Calandria · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2912,6 +2937,7 @@
       "name": "La Calandria · 2",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2955,6 +2981,7 @@
       "name": "Los Aromos · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -2998,6 +3025,7 @@
       "name": "La Esperanza · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3041,6 +3069,7 @@
       "name": "Los Álamos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3084,6 +3113,7 @@
       "name": "El Ombú · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3127,6 +3157,7 @@
       "name": "Las Acacias · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3170,6 +3201,7 @@
       "name": "Santa Clara · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3213,6 +3245,7 @@
       "name": "El Horizonte · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3228,6 +3261,7 @@
       "name": "La Calandria · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3271,6 +3305,7 @@
       "name": "Los Aromos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3314,6 +3349,7 @@
       "name": "La Esperanza · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3357,6 +3393,7 @@
       "name": "Los Álamos · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3400,6 +3437,7 @@
       "name": "Los Álamos · 2",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3443,6 +3481,7 @@
       "name": "El Ombú · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3486,6 +3525,7 @@
       "name": "Las Acacias · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3529,6 +3569,7 @@
       "name": "Santa Clara · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3572,6 +3613,7 @@
       "name": "El Horizonte · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3615,6 +3657,7 @@
       "name": "La Calandria · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -3630,6 +3673,7 @@
       "name": "Los Aromos · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3673,6 +3717,7 @@
       "name": "La Esperanza · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3716,6 +3761,7 @@
       "name": "Los Álamos · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3759,6 +3805,7 @@
       "name": "El Ombú · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3802,6 +3849,7 @@
       "name": "Las Acacias · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3845,6 +3893,7 @@
       "name": "Santa Clara · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3888,6 +3937,7 @@
       "name": "Santa Clara · 2",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3931,6 +3981,7 @@
       "name": "El Horizonte · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -3974,6 +4025,7 @@
       "name": "La Calandria · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4017,6 +4069,7 @@
       "name": "Los Aromos · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -4032,6 +4085,7 @@
       "name": "La Esperanza · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4075,6 +4129,7 @@
       "name": "Los Álamos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4118,6 +4173,7 @@
       "name": "El Ombú · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4161,6 +4217,7 @@
       "name": "Las Acacias · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4204,6 +4261,7 @@
       "name": "Santa Clara · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4247,6 +4305,7 @@
       "name": "El Horizonte · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4290,6 +4349,7 @@
       "name": "La Calandria · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4333,6 +4393,7 @@
       "name": "Los Aromos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4376,6 +4437,7 @@
       "name": "Los Aromos · 2",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4419,6 +4481,7 @@
       "name": "La Esperanza · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -4434,6 +4497,7 @@
       "name": "Los Álamos · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4477,6 +4541,7 @@
       "name": "El Ombú · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4520,6 +4585,7 @@
       "name": "Las Acacias · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4563,6 +4629,7 @@
       "name": "Santa Clara · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4606,6 +4673,7 @@
       "name": "El Horizonte · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4649,6 +4717,7 @@
       "name": "La Calandria · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4692,6 +4761,7 @@
       "name": "Los Aromos · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4735,6 +4805,7 @@
       "name": "La Esperanza · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4778,6 +4849,7 @@
       "name": "Los Álamos · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -4793,6 +4865,7 @@
       "name": "El Ombú · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4836,6 +4909,7 @@
       "name": "El Ombú · 2",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4879,6 +4953,7 @@
       "name": "Las Acacias · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4922,6 +4997,7 @@
       "name": "Santa Clara · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -4965,6 +5041,7 @@
       "name": "El Horizonte · 1",
       "province": "Buenos Aires",
       "department": "Junín",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5008,6 +5085,7 @@
       "name": "La Calandria · 1",
       "province": "Santa Fe",
       "department": "Caseros",
+      "agriculturalSubregionId": "DEMO-AGR-02",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5051,6 +5129,7 @@
       "name": "Los Aromos · 1",
       "province": "Córdoba",
       "department": "Río Cuarto",
+      "agriculturalSubregionId": "DEMO-AGR-03",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5094,6 +5173,7 @@
       "name": "La Esperanza · 1",
       "province": "Córdoba",
       "department": "Marcos Juárez",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5137,6 +5217,7 @@
       "name": "Los Álamos · 1",
       "province": "Santa Fe",
       "department": "General López",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -5180,6 +5261,7 @@
       "name": "El Ombú · 1",
       "province": "Buenos Aires",
       "department": "Pergamino",
+      "agriculturalSubregionId": "DEMO-AGR-01",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -43898,6 +43980,4784 @@
       ],
       "provider": "Suyana",
       "confidence": 0.89
+    }
+  ],
+  "agriculturalSubregions": [
+    {
+      "id": "DEMO-AGR-01",
+      "name": "Demo area 01",
+      "source": "Synthetic grouping; bank/MAGyP agricultural sub-region mapping not supplied",
+      "demonstration": true
+    },
+    {
+      "id": "DEMO-AGR-02",
+      "name": "Demo area 02",
+      "source": "Synthetic grouping; bank/MAGyP agricultural sub-region mapping not supplied",
+      "demonstration": true
+    },
+    {
+      "id": "DEMO-AGR-03",
+      "name": "Demo area 03",
+      "source": "Synthetic grouping; bank/MAGyP agricultural sub-region mapping not supplied",
+      "demonstration": true
+    }
+  ],
+  "yields": [
+    {
+      "id": "YLD-ACT-001-1-2027-02-12",
+      "activityId": "ACT-001-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4018,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-001-1-2027-02-19",
+      "activityId": "ACT-001-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3034,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-001-2-2027-02-12",
+      "activityId": "ACT-001-2",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4018,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-001-2-2027-02-19",
+      "activityId": "ACT-001-2",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3034,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-002-1-2027-02-12",
+      "activityId": "ACT-002-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 7.696,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-002-1-2027-02-19",
+      "activityId": "ACT-002-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 7.696,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-003-1-2027-02-12",
+      "activityId": "ACT-003-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-003-1-2027-02-19",
+      "activityId": "ACT-003-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-004-1-2027-02-12",
+      "activityId": "ACT-004-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.414,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-004-1-2027-02-19",
+      "activityId": "ACT-004-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.99,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-005-1-2027-02-12",
+      "activityId": "ACT-005-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3752,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-005-1-2027-02-19",
+      "activityId": "ACT-005-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3752,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-006-1-2027-02-12",
+      "activityId": "ACT-006-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8856,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.668,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-006-1-2027-02-19",
+      "activityId": "ACT-006-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8856,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.605,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-007-1-2027-01-21",
+      "activityId": "ACT-007-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-007-1-2027-01-28",
+      "activityId": "ACT-007-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-008-1-2027-02-12",
+      "activityId": "ACT-008-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.1,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-008-1-2027-02-19",
+      "activityId": "ACT-008-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.1,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-009-1-2027-02-12",
+      "activityId": "ACT-009-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-009-1-2027-02-19",
+      "activityId": "ACT-009-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-010-1-2027-02-12",
+      "activityId": "ACT-010-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-010-1-2027-02-19",
+      "activityId": "ACT-010-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-011-1-2027-02-12",
+      "activityId": "ACT-011-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4179,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-011-1-2027-02-19",
+      "activityId": "ACT-011-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3155,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-012-1-2027-02-12",
+      "activityId": "ACT-012-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-012-1-2027-02-19",
+      "activityId": "ACT-012-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-012-2-2027-02-12",
+      "activityId": "ACT-012-2",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-012-2-2027-02-19",
+      "activityId": "ACT-012-2",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-013-1-2027-02-12",
+      "activityId": "ACT-013-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-013-1-2027-02-19",
+      "activityId": "ACT-013-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-014-1-2027-02-12",
+      "activityId": "ACT-014-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.36,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-014-1-2027-02-19",
+      "activityId": "ACT-014-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.952,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-015-1-2027-02-12",
+      "activityId": "ACT-015-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-015-1-2027-02-19",
+      "activityId": "ACT-015-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-016-1-2027-02-12",
+      "activityId": "ACT-016-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.458,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-016-1-2027-02-19",
+      "activityId": "ACT-016-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.435,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-017-1-2027-01-21",
+      "activityId": "ACT-017-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5541,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-017-1-2027-01-28",
+      "activityId": "ACT-017-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5541,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-018-1-2027-02-12",
+      "activityId": "ACT-018-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.428,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-018-1-2027-02-19",
+      "activityId": "ACT-018-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.428,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-019-1-2027-02-12",
+      "activityId": "ACT-019-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-019-1-2027-02-19",
+      "activityId": "ACT-019-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-020-1-2027-02-12",
+      "activityId": "ACT-020-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-020-1-2027-02-19",
+      "activityId": "ACT-020-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-021-1-2027-02-12",
+      "activityId": "ACT-021-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4018,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-021-1-2027-02-19",
+      "activityId": "ACT-021-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3034,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-022-1-2027-02-12",
+      "activityId": "ACT-022-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.004,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-022-1-2027-02-19",
+      "activityId": "ACT-022-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.004,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-023-1-2027-02-12",
+      "activityId": "ACT-023-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-023-1-2027-02-19",
+      "activityId": "ACT-023-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-023-2-2027-02-12",
+      "activityId": "ACT-023-2",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-023-2-2027-02-19",
+      "activityId": "ACT-023-2",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-024-1-2027-02-12",
+      "activityId": "ACT-024-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3672,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.469,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-024-1-2027-02-19",
+      "activityId": "ACT-024-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3672,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.028,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-025-1-2027-02-12",
+      "activityId": "ACT-025-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-025-1-2027-02-19",
+      "activityId": "ACT-025-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-026-1-2027-02-12",
+      "activityId": "ACT-026-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.248,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-026-1-2027-02-19",
+      "activityId": "ACT-026-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-027-1-2027-01-21",
+      "activityId": "ACT-027-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-027-1-2027-01-28",
+      "activityId": "ACT-027-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-028-1-2027-02-12",
+      "activityId": "ACT-028-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-028-1-2027-02-19",
+      "activityId": "ACT-028-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-029-1-2027-02-12",
+      "activityId": "ACT-029-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2912,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2330,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-029-1-2027-02-19",
+      "activityId": "ACT-029-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2912,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2330,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-030-1-2027-02-12",
+      "activityId": "ACT-030-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-030-1-2027-02-19",
+      "activityId": "ACT-030-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-031-1-2027-02-12",
+      "activityId": "ACT-031-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4018,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-031-1-2027-02-19",
+      "activityId": "ACT-031-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3034,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-032-1-2027-02-12",
+      "activityId": "ACT-032-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 7.696,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-032-1-2027-02-19",
+      "activityId": "ACT-032-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 7.696,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-033-1-2027-02-12",
+      "activityId": "ACT-033-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-033-1-2027-02-19",
+      "activityId": "ACT-033-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-034-1-2027-02-12",
+      "activityId": "ACT-034-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.414,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-034-1-2027-02-19",
+      "activityId": "ACT-034-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.99,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-034-2-2027-02-12",
+      "activityId": "ACT-034-2",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.414,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-034-2-2027-02-19",
+      "activityId": "ACT-034-2",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.99,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-035-1-2027-02-12",
+      "activityId": "ACT-035-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3752,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-035-1-2027-02-19",
+      "activityId": "ACT-035-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3752,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-036-1-2027-02-12",
+      "activityId": "ACT-036-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8856,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.668,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-036-1-2027-02-19",
+      "activityId": "ACT-036-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8856,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.605,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-037-1-2027-01-21",
+      "activityId": "ACT-037-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-037-1-2027-01-28",
+      "activityId": "ACT-037-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-038-1-2027-02-12",
+      "activityId": "ACT-038-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.1,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-038-1-2027-02-19",
+      "activityId": "ACT-038-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.1,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-039-1-2027-02-12",
+      "activityId": "ACT-039-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-039-1-2027-02-19",
+      "activityId": "ACT-039-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-040-1-2027-02-12",
+      "activityId": "ACT-040-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-040-1-2027-02-19",
+      "activityId": "ACT-040-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-041-1-2027-02-12",
+      "activityId": "ACT-041-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4179,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-041-1-2027-02-19",
+      "activityId": "ACT-041-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3155,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-042-1-2027-02-12",
+      "activityId": "ACT-042-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-042-1-2027-02-19",
+      "activityId": "ACT-042-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-043-1-2027-02-12",
+      "activityId": "ACT-043-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-043-1-2027-02-19",
+      "activityId": "ACT-043-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-044-1-2027-02-12",
+      "activityId": "ACT-044-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.36,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-044-1-2027-02-19",
+      "activityId": "ACT-044-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.952,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-045-1-2027-02-12",
+      "activityId": "ACT-045-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-045-1-2027-02-19",
+      "activityId": "ACT-045-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-045-2-2027-02-12",
+      "activityId": "ACT-045-2",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-045-2-2027-02-19",
+      "activityId": "ACT-045-2",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-046-1-2027-02-12",
+      "activityId": "ACT-046-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.458,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-046-1-2027-02-19",
+      "activityId": "ACT-046-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.435,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-047-1-2027-01-21",
+      "activityId": "ACT-047-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5541,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-047-1-2027-01-28",
+      "activityId": "ACT-047-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5541,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-048-1-2027-02-12",
+      "activityId": "ACT-048-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.428,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-048-1-2027-02-19",
+      "activityId": "ACT-048-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.428,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-049-1-2027-02-12",
+      "activityId": "ACT-049-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-049-1-2027-02-19",
+      "activityId": "ACT-049-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-050-1-2027-02-12",
+      "activityId": "ACT-050-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-050-1-2027-02-19",
+      "activityId": "ACT-050-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-051-1-2027-02-12",
+      "activityId": "ACT-051-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4018,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-051-1-2027-02-19",
+      "activityId": "ACT-051-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3034,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-052-1-2027-02-12",
+      "activityId": "ACT-052-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.004,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-052-1-2027-02-19",
+      "activityId": "ACT-052-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7696,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.004,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-053-1-2027-02-12",
+      "activityId": "ACT-053-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-053-1-2027-02-19",
+      "activityId": "ACT-053-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-054-1-2027-02-12",
+      "activityId": "ACT-054-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3672,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.469,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-054-1-2027-02-19",
+      "activityId": "ACT-054-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3672,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.028,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-055-1-2027-02-12",
+      "activityId": "ACT-055-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-055-1-2027-02-19",
+      "activityId": "ACT-055-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-056-1-2027-02-12",
+      "activityId": "ACT-056-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.248,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-056-1-2027-02-19",
+      "activityId": "ACT-056-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-056-2-2027-02-12",
+      "activityId": "ACT-056-2",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.248,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-056-2-2027-02-19",
+      "activityId": "ACT-056-2",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-057-1-2027-01-21",
+      "activityId": "ACT-057-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-057-1-2027-01-28",
+      "activityId": "ACT-057-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-058-1-2027-02-12",
+      "activityId": "ACT-058-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-058-1-2027-02-19",
+      "activityId": "ACT-058-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.264,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-059-1-2027-02-12",
+      "activityId": "ACT-059-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2912,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2330,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-059-1-2027-02-19",
+      "activityId": "ACT-059-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2912,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2330,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-060-1-2027-02-12",
+      "activityId": "ACT-060-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-060-1-2027-02-19",
+      "activityId": "ACT-060-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4428,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-061-1-2027-02-12",
+      "activityId": "ACT-061-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4018,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-061-1-2027-02-19",
+      "activityId": "ACT-061-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8200,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3034,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-062-1-2027-02-12",
+      "activityId": "ACT-062-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 7.696,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-062-1-2027-02-19",
+      "activityId": "ACT-062-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 7.696,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-063-1-2027-02-12",
+      "activityId": "ACT-063-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-063-1-2027-02-19",
+      "activityId": "ACT-063-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-064-1-2027-02-12",
+      "activityId": "ACT-064-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.414,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-064-1-2027-02-19",
+      "activityId": "ACT-064-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3536,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.99,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-065-1-2027-02-12",
+      "activityId": "ACT-065-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3752,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-065-1-2027-02-19",
+      "activityId": "ACT-065-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3752,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-066-1-2027-02-12",
+      "activityId": "ACT-066-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8856,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5.668,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-066-1-2027-02-19",
+      "activityId": "ACT-066-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8856,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.605,
+        "unit": "t/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-067-1-2027-01-21",
+      "activityId": "ACT-067-1",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-067-1-2027-01-28",
+      "activityId": "ACT-067-1",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-067-2-2027-01-21",
+      "activityId": "ACT-067-2",
+      "assessedAt": "2027-01-21",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-067-2-2027-01-28",
+      "activityId": "ACT-067-2",
+      "assessedAt": "2027-01-28",
+      "quality": "Stale",
+      "baseline": {
+        "value": 7400,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 5328,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-068-1-2027-02-12",
+      "activityId": "ACT-068-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.1,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-068-1-2027-02-19",
+      "activityId": "ACT-068-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4.1,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-069-1-2027-02-12",
+      "activityId": "ACT-069-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-069-1-2027-02-19",
+      "activityId": "ACT-069-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 2800,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 2240,
+        "unit": "kg/ha",
+        "crop": "Soybean · second",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "incompatible-demo-season",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-070-1-2027-02-12",
+      "activityId": "ACT-070-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-070-1-2027-02-19",
+      "activityId": "ACT-070-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 4264,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "t/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-071-1-2027-02-12",
+      "activityId": "ACT-071-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 4179,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-071-1-2027-02-19",
+      "activityId": "ACT-071-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 8528,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3155,
+        "unit": "kg/ha",
+        "crop": "Maize · early",
+        "subregionId": "DEMO-AGR-02",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-072-1-2027-02-12",
+      "activityId": "ACT-072-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-072-1-2027-02-19",
+      "activityId": "ACT-072-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 7992,
+        "unit": "kg/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 8.312,
+        "unit": "t/ha",
+        "crop": "Maize · late",
+        "subregionId": "DEMO-AGR-03",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-073-1-2027-02-12",
+      "activityId": "ACT-073-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-073-1-2027-02-19",
+      "activityId": "ACT-073-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Partial",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": null,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-074-1-2027-02-12",
+      "activityId": "ACT-074-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 1.36,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-074-1-2027-02-19",
+      "activityId": "ACT-074-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 3400,
+        "unit": "kg/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 0.952,
+        "unit": "t/ha",
+        "crop": "Soybean · first",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-075-1-2027-02-12",
+      "activityId": "ACT-075-1",
+      "assessedAt": "2027-02-12",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
+    },
+    {
+      "id": "YLD-ACT-075-1-2027-02-19",
+      "activityId": "ACT-075-1",
+      "assessedAt": "2027-02-19",
+      "quality": "Current",
+      "baseline": {
+        "value": 4100,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic bank-provided five-year baseline; no MAGyP records ingested",
+        "years": [
+          2021,
+          2022,
+          2023,
+          2024,
+          2025
+        ]
+      },
+      "predicted": {
+        "value": 3608,
+        "unit": "kg/ha",
+        "crop": "Wheat",
+        "subregionId": "DEMO-AGR-01",
+        "campaign": "2026/27",
+        "source": "Synthetic Suyana climate-adjusted yield"
+      }
     }
   ],
   "policies": [

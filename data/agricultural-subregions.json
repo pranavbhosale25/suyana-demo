@@ -1,0 +1,20 @@
+[
+  {
+    "id": "DEMO-AGR-01",
+    "name": "Demo area 01",
+    "source": "Synthetic grouping; bank/MAGyP agricultural sub-region mapping not supplied",
+    "demonstration": true
+  },
+  {
+    "id": "DEMO-AGR-02",
+    "name": "Demo area 02",
+    "source": "Synthetic grouping; bank/MAGyP agricultural sub-region mapping not supplied",
+    "demonstration": true
+  },
+  {
+    "id": "DEMO-AGR-03",
+    "name": "Demo area 03",
+    "source": "Synthetic grouping; bank/MAGyP agricultural sub-region mapping not supplied",
+    "demonstration": true
+  }
+]
